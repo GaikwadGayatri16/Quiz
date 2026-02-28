@@ -31,6 +31,10 @@ JavaScript (Vanilla JS) – Application logic and interactivity
 Google Fonts (Roboto) – Typography
 
 
+Live Demo at 
+https://gaikwadgayatri16.github.io/Quiz/
+
+
 📂 Project Structure
 quiz-app/
 │
